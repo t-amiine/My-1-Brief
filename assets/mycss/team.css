@@ -17,7 +17,8 @@
 }
 #Team .perso img {margin-bottom: 20px;}
 #Team .perso h6 {font-size: 15px;}
-
+#Team .perso h1 {font-weight: 700; margin-top: 5px;}
+.person-info {text-align: center;}
 @media screen and (max-width: 740px) {
     #Team .perso {
         display: flex;
